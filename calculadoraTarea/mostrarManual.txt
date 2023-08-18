@@ -1,0 +1,31 @@
+						CRISTHIAN ALEJANDRO BARRIENTOS MOYA 7691-20-3889 	
+				
+--======================================================  | MANUAL DE USUARIO |  ========================================================--
+FORMA DE USO
+
+Funciones Principales:
+
+	1. Suma: Colocando dos datos seguidos el uno del otro presionando el signo + se ejecutará la operación de 'Suma'
+
+	2. Resta: Colocando dos datos seguidos el uno del otro presionando el signo - se ejecutará la operación de 'Resta'
+
+	3. Multiplicacion: Colocando dos datos seguidos el uno del otro presionando el signo * se ejecutará la operación de 'Multiplicación'
+
+	4. Division: Colocando dos datos seguidos el uno del otro presionando el signo / se ejecutará la operación de 'División'
+
+Funciones de botones Operativos
+
+	1. Signo Igual '=': Funciona seguido de haber colocado los valores que se van a operar y el signo que opera. Presionando el botón con el signo = se mostrará el resultado de la operación deseada.
+
+	2. Signo Borrar 'C': Funciona al momento en el que el usuario desee eliminar un resultado o una cifra mal ingresada.
+
+	3. Signo Decimal '.': Funciona colocando el punto seguido de un entero, y funciona para denotar que se está usando un valor decimal.
+
+						
+--===========================================================  | OPCIONES |  =============================================================--
+Al darle click al apartado que aparece en la parte superior izquierda se van a desplegar las siguientes opciones:							
+			
+	1. Nuevo: Sirve para borrar operaciones pendientes y comenzar una nueva operación. Así como indica en la parte del ingreso de datos 	que se colocó una operación nueva.
+	2. Historial: Sirve para ingresar al apartado donde se encuentran todas las operaciones anteriores que se han hecho desde el inicio.
+	3. Salir: Al lado de la pestaña de opciones se encuentra la pestaña de Salir, en la que se encuentra dentro el botón que indica que el programa de calculadora debe terminar.
+
